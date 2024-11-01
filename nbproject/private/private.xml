@@ -7,6 +7,7 @@
             <file>file:/E:/Project/MPMS-master/MPMS-master/web/WEB-INF/View/User/ListUser.jsp</file>
             <file>file:/E:/Project/MPMS-master/MPMS-master/src/java/dal/UserDAO.java</file>
             <file>file:/E:/Project/MPMS-master/MPMS-master/src/java/controlller/HomePage.java</file>
+            <file>file:/E:/Project/MPMS-master/MPMS-master/src/java/dal/DBContext.java</file>
         </group>
     </open-files>
 </project-private>
